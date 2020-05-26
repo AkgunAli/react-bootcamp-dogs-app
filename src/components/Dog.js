@@ -32,7 +32,7 @@ const Dog = ({id, name, toggle, getStatus,buttonestatus,image}) => {
                               
                   
 
-                              <img  width="300" height="300"  src={image} alt="Card image cap" />
+                              <img  width="250" height="300"  src={image} alt="Card image cap" />
 
                                 <NavLink>
                                 <Link to={`/detail/${id}`} >

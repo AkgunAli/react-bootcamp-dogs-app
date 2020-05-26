@@ -38,6 +38,7 @@ class App extends React.Component{
                     <Route path="/detail/:secilenTur" exact component={Detaildogs} />
 
                     <Route path="/basvuru" exact component={Formpage} />
+                    <Route path="/react-bootcamp-dogs-app/" exact component={Homepage}/>
 
 
 
@@ -45,7 +46,12 @@ class App extends React.Component{
 
 
 
-                    <Route component={() => <div><h1>404 sayfa bulununamadi</h1></div>} />
+                    <Route component={() => <div>
+                        
+                        <img  src="https://freefrontend.com/assets/img/html-css-404-page-templates/HTML-404-Page-Animated.png"/>
+                        
+                        
+                        </div>} />
                     {/*{*/}
                     {/*    routes.map((route) => {*/}
                     {/*        // <Route {...route} />*/}
