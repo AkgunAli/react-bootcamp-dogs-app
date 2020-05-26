@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.69eda509.chunk.css",
-    "main.js": "/static/js/main.306e0d3b.chunk.js",
-    "main.js.map": "/static/js/main.306e0d3b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74ea8742.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74ea8742.js.map",
-    "static/css/2.74189dbb.chunk.css": "/static/css/2.74189dbb.chunk.css",
-    "static/js/2.b318ace2.chunk.js": "/static/js/2.b318ace2.chunk.js",
-    "static/js/2.b318ace2.chunk.js.map": "/static/js/2.b318ace2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.33897c13f35ad93a9ae9e2b687d1467e.js": "/precache-manifest.33897c13f35ad93a9ae9e2b687d1467e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.74189dbb.chunk.css.map": "/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.b318ace2.chunk.js.LICENSE.txt": "/static/js/2.b318ace2.chunk.js.LICENSE.txt"
+    "main.css": "/react-bootcamp-dogs-app/static/css/main.69eda509.chunk.css",
+    "main.js": "/react-bootcamp-dogs-app/static/js/main.fbd7a751.chunk.js",
+    "main.js.map": "/react-bootcamp-dogs-app/static/js/main.fbd7a751.chunk.js.map",
+    "runtime-main.js": "/react-bootcamp-dogs-app/static/js/runtime-main.9e85d2da.js",
+    "runtime-main.js.map": "/react-bootcamp-dogs-app/static/js/runtime-main.9e85d2da.js.map",
+    "static/css/2.74189dbb.chunk.css": "/react-bootcamp-dogs-app/static/css/2.74189dbb.chunk.css",
+    "static/js/2.b318ace2.chunk.js": "/react-bootcamp-dogs-app/static/js/2.b318ace2.chunk.js",
+    "static/js/2.b318ace2.chunk.js.map": "/react-bootcamp-dogs-app/static/js/2.b318ace2.chunk.js.map",
+    "index.html": "/react-bootcamp-dogs-app/index.html",
+    "precache-manifest.3436491e67dc143019bc94ca0bf88eff.js": "/react-bootcamp-dogs-app/precache-manifest.3436491e67dc143019bc94ca0bf88eff.js",
+    "service-worker.js": "/react-bootcamp-dogs-app/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/react-bootcamp-dogs-app/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/react-bootcamp-dogs-app/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.b318ace2.chunk.js.LICENSE.txt": "/react-bootcamp-dogs-app/static/js/2.b318ace2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74ea8742.js",
+    "static/js/runtime-main.9e85d2da.js",
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.b318ace2.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.306e0d3b.chunk.js"
+    "static/js/main.fbd7a751.chunk.js"
   ]
 }
