@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-bootcamp-dogs-app/precache-manifest.2a8e32d9752c8bdfacaccd07dc05104c.js"
+  "/react-bootcamp-dogs-app/precache-manifest.ee76e07499fd20a7a365e39e4d23af2c.js"
 );
 
 self.addEventListener('message', (event) => {
