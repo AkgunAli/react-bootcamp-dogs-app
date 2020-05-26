@@ -21,16 +21,16 @@ const FilteredDogs = (props) => {
              return (
           <div>
             <Container>
-              <Card style={{ height: "600px", textAlign: "center" }}>
+              <Card style={{  textAlign: "center" }}>
                 <ListGroup>
-                  <ListGroupItem tag="button" action>
+                  <ListGroupItem >
                       <h1>  Tür : {dog.name} </h1>
                     <br />
-                    <img width="50%" src={dog.image} alt="Card image cap" />
+                    <img width="40%" src={dog.image} alt="Card image cap" />
 
                     <h6>
                       {dog.description}
-                      -
+                      
                       <br />
                       {dog.age}
                       <br />
